@@ -26,3 +26,28 @@ print(45 // 2)
 
 print(bin(5))
 
+#variables
+
+name = 'Mumriaz'
+age = 26
+
+print("My name is",name,"and age is",age)
+
+#constants 
+PI = 3.14
+
+print(PI)
+
+a,b,c = 1,4,5
+print(a,b,c)
+
+#augmented assinment operator
+
+some_value = 5 + 2
+
+some_value = some_value + 3
+some_value += 1
+
+print(some_value)
+
+
